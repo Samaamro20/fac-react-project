@@ -26,8 +26,12 @@ Try to:
 
 Previous facsters have created noughts and crosses, card games, tamagotchis, github wars. Be creative! 
 
-[Oli's Tamagotchi](https://tamagotchi.netlify.com)  
+[Oli's Tamagotchi](https://tamagotchi.netlify.com)
+
 [Zooey's Drake thing](https://fuckin-yolo.netlify.com/)
+
 [Twitter Hop](http://twitterhop.herokuapp.com/)
+
 [Catch me if you can](https://hopeful-boyd-c6deda.netlify.com/)
+
 [X and Os](https://clever-wozniak-170c27.netlify.com/dist/)
