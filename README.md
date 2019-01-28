@@ -1,8 +1,8 @@
-# Tamagotchi Project!
+# React Project!
 
-The goal is to build an interactive game-like thing that uses data from an API.
+- Build an interactive game that uses data from an API
 
-It should:
+Features you can include:
 
 * Let you submit a username
 * Query the [Github API](https://developer.github.com/v3/) (or any other [fun one](https://www.potterapi.com/) you like
@@ -21,27 +21,13 @@ Try to:
 
 * Save your state to localstorage so you can leave the page and come back later
 * Have a button to add more copies of the game
-* Make it look sick
 
 ### Examples
 
-"interactive game-like thing" is a bit vague, so here are two example apps:
+Previous facsters have created noughts and crosses, card games, tamagotchis, github wars. Be creative! 
 
 [Oli's Tamagotchi](https://tamagotchi.netlify.com)  
 [Zooey's Drake thing](https://fuckin-yolo.netlify.com/)
-
-### Setup
-
-Check out our guide to setting up a React project with Parcel:
-
-### :sparkles: [CLICK ME](./docs/setup.md) :sparkles:
-
-### Assets
-
-* Here are instructions on how to [insert assets with Parcel](https://parceljs.org/assets.html).
-
-## Deployment
-
-You can deploy your app to [Netlify](https://netlify.com) (or any other static host).
-
-[Check out our instructions here.](./deploying.md)
+[Twitter Hop](http://twitterhop.herokuapp.com/)
+[Catch me if you can](https://hopeful-boyd-c6deda.netlify.com/)
+[X and Os](https://clever-wozniak-170c27.netlify.com/dist/)
